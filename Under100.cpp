@@ -1,9 +1,10 @@
-// Michael L. Kelley Jr.
+/* Michael L. Kelley Jr.
 // November 1, 2021
 // Under100.cpp
 
 // Get user input and test if under 100
 // Use if-else to display results back 
+*/
 
 #include <iostream>
 using namespace std;

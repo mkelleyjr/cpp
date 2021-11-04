@@ -21,7 +21,7 @@ int main()
     // Ask the user for a number and process it 
     cout << "Enter a number:" << endl;
     cin >> UserNumber;
-    cout << "Oh, you picked: " << endl;
+    cout << "Oh, you picked: " << UserNumber << endl;
 
     return 0;
 }

@@ -19,13 +19,13 @@ int main()
     cout << "Enter the 2nd number:" << endl;
     cin >> num2;
 
-    // if-else to test numbers 
     if(num1 == num2)
     {
         cout << "Yes! Those numbers are equal" << endl;
+    }
         else
+        {
         cout << "Nope! Those numbers are not equal" << endl;
     }
-
 
 }

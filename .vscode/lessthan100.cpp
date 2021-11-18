@@ -13,13 +13,14 @@ lessThan100 ()
 {
   int a;
   int b;
+  int c; 
 
   cout << "Enter int a" << endl;
   cin >> a;
   cout << "Enter int b" << endl;
   cin >> b;
 
-  int c = a + b;
+  c = a + b;
 
   if (c <= 99)
     {

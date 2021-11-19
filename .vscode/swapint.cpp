@@ -23,7 +23,7 @@ int main()
     cout << "2nd is " << b << endl;
     
     // use standard fucnctioin swap to switch them 
-    swap(a, b)
+    swap(a, b);
     cout << "1st is now " << a << endl;
     cout << "2nd is now " << b << endl;
 

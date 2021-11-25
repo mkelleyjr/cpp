@@ -1,0 +1,32 @@
+/* Michael L. Kelley Jr.
+// November 25, 2021
+// gamestats.cpp
+
+// game stats program from beginning c++ game programming book 
+*/
+
+#include<iostream>
+using namespace std;
+
+int main()
+{
+
+int score;
+double distance;
+char playAgain;
+bool shiledUp;
+
+short lives;
+
+score = 0;
+distance = 1200.76;
+playAgain = 'y';
+shieldUp = true;
+lives = 3;
+
+double engineTemp = 6563.89;
+
+cout << "\nScore: " << score << endl; 
+cout << "distance: " << distance << endl;
+
+}

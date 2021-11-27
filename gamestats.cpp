@@ -23,6 +23,7 @@ distance = 1200.76;
 playAgain = 'y';
 shieldUp = true;
 lives = 3;
+aliensKilled = 10;
 
 double engineTemp = 6563.89;
 
@@ -31,5 +32,8 @@ cout << "distance: " << distance << endl;
 cout << "playAgain: " << playAgain << endl;
 cout << "lives: " << lives << endl;;
 
+typedef unsigned int short int ushort;
+ushort bonus = 10; 
+cout << "\nbonus: " << bonus << endl; 
 
 }

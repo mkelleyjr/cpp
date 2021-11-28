@@ -11,6 +11,7 @@ using namespace std;
 int main()
 {
 
+// Variables
 int score;
 double distance;
 char playAgain;
@@ -26,6 +27,8 @@ lives = 3;
 aliensKilled = 10;
 
 double engineTemp = 6563.89;
+
+// Use the variables 
 
 cout << "\nScore: " << score << endl; 
 cout << "distance: " << distance << endl;

@@ -33,7 +33,7 @@ double engineTemp = 6563.89;
 cout << "\nScore: " << score << endl; 
 cout << "distance: " << distance << endl;
 cout << "playAgain: " << playAgain << endl;
-cout << "lives: " << lives << endl;;
+cout << "lives: " << lives << endl;
 
 typedef unsigned int short int ushort;
 ushort bonus = 10; 

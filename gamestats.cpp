@@ -15,7 +15,7 @@ int main()
 int score;
 double distance;
 char playAgain;
-bool shiledUp;
+bool shieldUp;
 
 short lives;
 
@@ -25,6 +25,7 @@ playAgain = 'y';
 shieldUp = true;
 lives = 3;
 aliensKilled = 10;
+
 
 double engineTemp = 6563.89;
 

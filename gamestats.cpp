@@ -13,6 +13,7 @@ int main()
 
 // Variables
 int score;
+int bonusLives; 
 double distance;
 char playAgain;
 bool shieldUp;
@@ -25,6 +26,7 @@ playAgain = 'y';
 shieldUp = true;
 lives = 3;
 aliensKilled = 10;
+bonusLives = 3; 
 
 
 double engineTemp = 6563.89;

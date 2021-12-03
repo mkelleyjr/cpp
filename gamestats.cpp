@@ -13,6 +13,7 @@ int main()
 
 // Variables
 int score;
+int stageNumber; 
 int bonusLives; 
 double distance;
 char playAgain;

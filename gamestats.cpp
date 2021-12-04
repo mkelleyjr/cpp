@@ -11,7 +11,7 @@ using namespace std;
 int main()
 {
 
-// Variables
+// Variables used 
 int score;
 int stageNumber; 
 int bonusLives; 

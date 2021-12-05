@@ -2,7 +2,7 @@
 // November 25, 2021
 // gamestats.cpp
 
-// game stats program from beginning c++ game programming book 
+// Game stats program from beginning c++ game programming book 
 */
 
 #include<iostream>
@@ -39,6 +39,7 @@ cout << "distance: " << distance << endl;
 cout << "playAgain: " << playAgain << endl;
 cout << "lives: " << lives << endl;
 
+// ushort example 
 typedef unsigned int short int ushort;
 ushort bonus = 10; 
 cout << "\nbonus: " << bonus << endl; 

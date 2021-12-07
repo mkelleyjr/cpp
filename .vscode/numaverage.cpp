@@ -10,12 +10,15 @@ using namespace std;
 
 int main()
 {
+
     int a;
     int b;
     int c;
     int d; 
     int total; 
     float average; 
+
+    // get 4 numbers to average from user 
 
     cout << "Enter 1st number:" << endl;
     cin >> a;

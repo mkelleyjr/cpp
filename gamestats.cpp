@@ -12,7 +12,6 @@ int main()
 {
 
 // Variables used 
-int score;
 int stageNumber; 
 int bonusLives; 
 double distance;
@@ -43,5 +42,12 @@ cout << "lives: " << lives << endl;
 typedef unsigned int short int ushort;
 ushort bonus = 10; 
 cout << "\nbonus: " << bonus << endl; 
+
+score = 3434343434;
+cout << "'\nscore: " << score << endl;
+++score;
+cout << "score: " << score << endl;
+
+return 0; 
 
 }

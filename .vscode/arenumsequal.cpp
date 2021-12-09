@@ -13,11 +13,14 @@ int main()
     int num1;
     int num2;
 
+    // Get user inputs 
     cout << "Enter the 1st number:" << endl;
     cin >> num1;
 
     cout << "Enter the 2nd number:" << endl;
     cin >> num2;
+ 
+    // if-else loop to test if equal 
 
     if(num1 == num2)
     {

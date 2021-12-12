@@ -13,6 +13,7 @@ int main()
     int num = 1; 
    
     // for loop code 
+    // print the int 100 times 
     for(int i = 0; i <= 100; i++) {
         cout << num; 
     }

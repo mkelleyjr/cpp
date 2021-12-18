@@ -18,6 +18,8 @@ int main()
     
     int score = 1000;
 
+    // Check to see what score is 
+
     if (score)
         cout << "Okay, at least you didn't score zero.\n\n" << endl;
 

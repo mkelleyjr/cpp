@@ -10,12 +10,12 @@ using namespace std;
 
 int main()
 {
-    // define the variables 
+    // define the variables we need 
     int date1;
     int date2;
     int date3;
 
-    // get 2 dates from user 
+    // get 2 dates from the user 
     cout << "Enter 1st date:" << endl;
     cin >> date1;
 

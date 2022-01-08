@@ -10,7 +10,7 @@ using namespace std;
 int main()
 {
 
-    // Variables used 
+    // Variables used in program 
     int a;
     int b;
     int c;
@@ -22,7 +22,7 @@ int main()
     cout << "Enter 2nd number:" << endl;
     cin >> b;
 
-    // Calculate the total and print 
+    // Calculate the total and print sum 
     c=a+b;
     cout << "The sum of those numbers is: " << c << endl;
 

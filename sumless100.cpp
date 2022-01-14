@@ -14,16 +14,16 @@ int main()
     int b;
     int c;
 
-    // Get 2 ints 
+    // Get 2 ints from user
      cout << "Please enter 1st number:" << endl;
      cin >> a;
      cout << "Please enter 2nd number:" << endl;
      cin >> b; 
     
-    // Math to get sum 
+    // Math to get sum of the ints
     c = a + b; 
 
-    // If-else loop to test sum 
+    // If-else loop to test sum against 100 
     if (c < 100)
     {
         cout << "Sum is less than 100!" << endl;

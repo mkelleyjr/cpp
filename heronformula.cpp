@@ -30,9 +30,8 @@ int main()
     s = (a + b + c)/2;
     area = sqrt(s*(s-a)*(s-b)*(s-c));
 
-    // Display to the user the area 
+    // Display the area of the triangle 
     cout << "The area of the triangle is : " << area << endl;
     cout << endl;
     return 0; 
-
 }

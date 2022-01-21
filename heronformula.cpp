@@ -4,13 +4,14 @@
 // w3resource problem #18
 */
 
+// math.h is needed 
 #include <iostream>
 #include <math.h> 
 using namespace std;
 
 int main()
 {
-    // Variables used 
+    // Variables used in program 
     float a; 
     float b;
     float c;

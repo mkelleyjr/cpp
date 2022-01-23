@@ -32,7 +32,7 @@ int main()
     total = a+b+c+d;
     cout << "The total of the numbers is: " << total << endl;
 
-    // get the average
+    // get the average and return the result 
     average = total / 4; 
     cout << "The average of those numbers is: " << average << endl;
 

@@ -16,6 +16,7 @@ int main()
     cout << "Enter the temperature in celsius:" << endl;
     cin >> CelTemp;
 
+    // Convert it 
     FahrenheitTemp = (CelTemp * 9/5) + 32; 
 
     cout << "That temperature converted to fahrenheit is: " << FahrenheitTemp << endl;

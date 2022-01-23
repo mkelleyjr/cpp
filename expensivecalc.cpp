@@ -10,6 +10,8 @@ using namespace std;
 
 int main()
 {
+    // Example of some calculations in C++ 
+
     cout << "7 + 3 = " << 7 + 3 << endl;
     cout << "7 - 2 = " << 7 - 3 << endl;
     cout << "7 * 3 = " << 7 * 3 << endl;

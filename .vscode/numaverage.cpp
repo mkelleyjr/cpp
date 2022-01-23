@@ -10,7 +10,7 @@ using namespace std;
 
 int main()
 {
-
+    // Variables we need 
     int a;
     int b;
     int c;
@@ -19,7 +19,6 @@ int main()
     float average; 
 
     // get 4 numbers to average from user 
-
     cout << "Enter 1st number:" << endl;
     cin >> a;
     cout << "Enter 2nd number:" << endl;
@@ -33,7 +32,7 @@ int main()
     total = a+b+c+d;
     cout << "The total of the numbers is: " << total << endl;
 
-    // get the average
+    // get the average and return the result 
     average = total / 4; 
     cout << "The average of those numbers is: " << average << endl;
 

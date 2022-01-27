@@ -9,11 +9,12 @@ using namespace std;
 
 int main()
 {
-
+    // Variables used 
     string word1 = "Good";
     string word2("Bye"); 
     string phrase; 
 
+    // put the strings together 
     phrase = word1 + word2; 
     cout "The phrase is: " << phrase << endl; 
 

@@ -11,6 +11,7 @@ using namespace std;
 
 int main()
 {
+    // Variables used 
     int num1;
     int num2;
     int remainder;

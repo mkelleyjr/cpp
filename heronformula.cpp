@@ -18,7 +18,7 @@ int main()
     float area;
     float s; 
 
-    // Get the 3 lenghts of triangle from user 
+    // Get the 3 lengths of triangle from user 
     cout << "Enter the length of 1st side of triangle:" << endl;
     cin >> a;
     cout << "Enter the length of 2nd side of the triangle:" << endl;

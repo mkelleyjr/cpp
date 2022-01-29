@@ -26,7 +26,7 @@ int main()
     cout << "Input 1st number: " << a << endl;
     cout << "Input 2nd number: " << b << endl;
 
-    // Calculate 
+    // Calculate the sum 
     c = a + b; 
     cout << "The sum of the numbers is: " << c << endl;
 

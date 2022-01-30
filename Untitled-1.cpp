@@ -11,7 +11,7 @@ int main()
 {
     // Variables used 
     string word1 = "Good";
-    string word2("Bye"); 
+    string word2("Byes"); 
     string phrase; 
 
     // put the strings together and dispaly the phrase 

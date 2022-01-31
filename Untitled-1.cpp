@@ -13,6 +13,8 @@ int main()
     string word1 = "Good";
     string word2("Byes"); 
     string phrase; 
+    
+    
 
     // put the strings together and dispaly the phrase 
     phrase = word1 + word2; 
